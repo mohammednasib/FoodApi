@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using EmployeeApi.Data;
 
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Connect to MySQL

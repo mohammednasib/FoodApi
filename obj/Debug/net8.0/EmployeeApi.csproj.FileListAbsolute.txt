@@ -1,3 +1,11 @@
+C:\Users\moham\OneDrive\Desktop\dotnet\EmployeeApi\obj\Debug\net8.0\EmployeeApi.csproj.AssemblyReference.cache
+C:\Users\moham\OneDrive\Desktop\dotnet\EmployeeApi\obj\Debug\net8.0\EmployeeApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\OneDrive\Desktop\dotnet\EmployeeApi\obj\Debug\net8.0\EmployeeApi.AssemblyInfoInputs.cache
+C:\Users\moham\OneDrive\Desktop\dotnet\EmployeeApi\obj\Debug\net8.0\EmployeeApi.AssemblyInfo.cs
+C:\Users\moham\OneDrive\Desktop\dotnet\EmployeeApi\obj\Debug\net8.0\EmployeeApi.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Desktop\dotnet\EmployeeApi\obj\Debug\net8.0\EmployeeApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\moham\OneDrive\Desktop\dotnet\EmployeeApi\obj\Debug\net8.0\EmployeeApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\moham\OneDrive\Desktop\dotnet\EmployeeApi\obj\Debug\net8.0\EmployeeApi.sourcelink.json
 C:\Users\moham\OneDrive\Desktop\dotnet\EmployeeApi\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\moham\OneDrive\Desktop\dotnet\EmployeeApi\bin\Debug\net8.0\appsettings.json
 C:\Users\moham\OneDrive\Desktop\dotnet\EmployeeApi\bin\Debug\net8.0\EmployeeApi.exe
@@ -87,13 +95,6 @@ C:\Users\moham\OneDrive\Desktop\dotnet\EmployeeApi\bin\Debug\net8.0\ru\Microsoft
 C:\Users\moham\OneDrive\Desktop\dotnet\EmployeeApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\moham\OneDrive\Desktop\dotnet\EmployeeApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\moham\OneDrive\Desktop\dotnet\EmployeeApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\moham\OneDrive\Desktop\dotnet\EmployeeApi\obj\Debug\net8.0\EmployeeApi.csproj.AssemblyReference.cache
-C:\Users\moham\OneDrive\Desktop\dotnet\EmployeeApi\obj\Debug\net8.0\EmployeeApi.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\moham\OneDrive\Desktop\dotnet\EmployeeApi\obj\Debug\net8.0\EmployeeApi.AssemblyInfoInputs.cache
-C:\Users\moham\OneDrive\Desktop\dotnet\EmployeeApi\obj\Debug\net8.0\EmployeeApi.AssemblyInfo.cs
-C:\Users\moham\OneDrive\Desktop\dotnet\EmployeeApi\obj\Debug\net8.0\EmployeeApi.csproj.CoreCompileInputs.cache
-C:\Users\moham\OneDrive\Desktop\dotnet\EmployeeApi\obj\Debug\net8.0\EmployeeApi.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\moham\OneDrive\Desktop\dotnet\EmployeeApi\obj\Debug\net8.0\EmployeeApi.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\moham\OneDrive\Desktop\dotnet\EmployeeApi\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\moham\OneDrive\Desktop\dotnet\EmployeeApi\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\moham\OneDrive\Desktop\dotnet\EmployeeApi\obj\Debug\net8.0\staticwebassets\msbuild.EmployeeApi.Microsoft.AspNetCore.StaticWebAssets.props
